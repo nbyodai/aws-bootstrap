@@ -8,7 +8,7 @@
     "stop": "node ./node_modules/pm2/bin/pm2 stop hello_aws"
   },
   "dependencies": {
-    "pm2": "4.2.1"
+    "pm2": "5.2.0"
   },
   "keywords": [],
   "author": "Chibuzor Obiora <nbyodai@gmail.com> (https://nbyodai.me/)",
